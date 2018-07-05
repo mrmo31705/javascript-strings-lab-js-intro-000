@@ -10,4 +10,4 @@ space = "Let\'s talk about space."
 
 var conversation = "topic"
 
- conversation = `Hello, ${topic}`;
+ conversation = `${topic}`;
